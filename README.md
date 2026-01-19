@@ -83,7 +83,7 @@ Steps:
 #
 **Graph Output:**
 
-![Graph](https://image2url.com/r2/default/images/1768847787124-94b4134a-76db-4f0a-9dd7-3816cbb36612.png)
+![image](https://image2url.com/r2/default/images/1768847787124-94b4134a-76db-4f0a-9dd7-3816cbb36612.png)
 
 **Features:** ['sepal length (cm)', 'sepal width (cm)']
 
