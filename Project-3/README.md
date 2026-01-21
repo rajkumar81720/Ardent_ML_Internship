@@ -209,7 +209,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **RAJ KUMAR DUTTA**
 
 GitHub: @rajkumar81720  
-LinkedIn: https://www.linkedin.com/in/raj-kumar-dutta-3349a0276/ 
+LinkedIn: https://www.linkedin.com/in/raj-kumar-dutta-3349a0276/
+
 Email: rajkumardutya@gmail.com
 
 ---
