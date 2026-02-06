@@ -118,4 +118,4 @@ Feel free to fork this project and experiment with different parameters, models,
 
 ---
 ## 👨‍💻 Author
-**Mayushree Chakraborty**
+**Raj Kumar Dutta**
